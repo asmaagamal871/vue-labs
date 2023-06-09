@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "first_name": "Ashlan",
+      "last_name": "Wallas",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "first_name": "Caritta",
+      "last_name": "L' Estrange",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "first_name": "Wendi",
+      "last_name": "Leber",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "first_name": "Becki",
+      "last_name": "Jasik",
+      "gender": "Female"
+    },
+    {
+      "id": 6,
+      "first_name": "Winifred",
+      "last_name": "Emsden",
+      "gender": "Female"
+    },
+    {
+      "id": 7,
+      "first_name": "Dorthea",
+      "last_name": "Chrispin",
+      "gender": "Female"
+    },
+    {
+      "id": 8,
+      "first_name": "Ebony",
+      "last_name": "Gilluley",
+      "gender": "Female"
+    },
+    {
+      "id": 9,
+      "first_name": "Maryjane",
+      "last_name": "Brettoner",
+      "gender": "Female"
+    },
+    {
+      "id": 10,
+      "first_name": "Mariam",
+      "last_name": "Reda Mokhtar",
+      "gender": "Female"
+    }
+  ]
+}
